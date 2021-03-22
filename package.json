@@ -1,4 +1,9 @@
 {
+  "main": "./src/index.ts",
+  "author": "ym.u.ichiro@gmail.com",
+  "repository": "",
+  "version": "0.0.1",
+  "description": "ClassやStyle等個別に定義可能なカスタムマークダウンを取り扱う",
   "dependencies": {
     "@types/marked": "^2.0.0",
     "marked": "^2.0.1"

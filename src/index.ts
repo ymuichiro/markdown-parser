@@ -1,4 +1,4 @@
-import marked, { Slugger } from 'marked';
+import marked from 'marked';
 import { BlockquoteArgs, Blockquote } from './components/blockquote';
 import { CheckBox, CheckBoxArgs } from './components/checkbox';
 import { Code, CodeArgs } from './components/code';
